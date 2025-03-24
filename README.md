@@ -1,4 +1,3 @@
-Here's a comprehensive overview of the IPL Dashboard project:
 
 # IPL Dashboard App
 
